@@ -2,7 +2,7 @@
 #  Image file: http://imgsrc.hubblesite.org/hu/db/images/hs-1999-30-b-full_jpg.jpg
 #  Applied threshold: 600
 #  Algorithm used: fill2                 
-#  Processing time: 0.094000 (s)
+#  Processing time: 0.093000 (s)
 #  Star count: 312
 #  Location (x,y) and max luminance:
 # 

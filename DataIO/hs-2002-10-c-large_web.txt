@@ -2,7 +2,7 @@
 #  Image file: http://imgsrc.hubblesite.org/hu/db/images/hs-2002-10-c-large_web.jpg
 #  Applied threshold: 600
 #  Algorithm used: fill2                 
-#  Processing time: 0.185000 (s)
+#  Processing time: 0.173000 (s)
 #  Star count: 242
 #  Location (x,y) and max luminance:
 # 

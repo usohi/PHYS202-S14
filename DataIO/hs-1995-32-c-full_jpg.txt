@@ -2,7 +2,7 @@
 #  Image file: http://imgsrc.hubblesite.org/hu/db/images/hs-1995-32-c-full_jpg.jpg
 #  Applied threshold: 600
 #  Algorithm used: fill2                 
-#  Processing time: 0.068000 (s)
+#  Processing time: 0.064000 (s)
 #  Star count: 82
 #  Location (x,y) and max luminance:
 # 
